@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+Referências
+https://www.codester.com/items/35091/run-tracker-and-counter-flutter-app
+https://www.youtube.com/watch?v=wsubtZxEa_E
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
